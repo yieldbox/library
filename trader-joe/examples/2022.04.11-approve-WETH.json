@@ -1,0 +1,34 @@
+{
+    "date": "Apr-12-2022 04:07:21 AM +UTC",
+    "transactions": [
+        {
+        "url": "https://snowtrace.io/tx/0xfc244892434291b5765f7389548142491f808366676727202fd4ace4c04ad48c",
+        "id": "AVAX:mainnet:0xfc244892434291b5765f7389548142491f808366676727202fd4ace4c04ad48c",
+        "from": "0xb513434c6f64a8b464295ce024191182b87e1c96",
+        "at": "Apr-12-2022 04:07:21 AM +UTC",
+        "price": "$76.33 AVAX",
+        "method": "0x095ea7b3",
+        "params": {
+            "spec": "approve(address spender, uint256 amount)",
+            "spender": "0x60aE616a2155Ee3d9A68541Ba4544862310933d4",
+            "amount": "115792089237316195423570985008687907853269984665640564039457584007913129639935",
+            "__": "0x095ea7b300000000000000000000000060ae616a2155ee3d9a68541ba4544862310933d4ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+            "_": [
+                "00000000000000000000000060ae616a2155ee3d9a68541ba4544862310933d4",
+                "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+            ]
+        },
+        "transfer": {
+            "want": "AVAX",
+            "have": "WETH",
+            "using": "AVAX:mainnet:traderjoe:approve(address spender, uint256 amount)",
+            "expect": "0 AVAX",
+            "into": "0 AVAX"
+        },
+        "value": "0 AVAX",
+        "gas price": "0.000000072266543202 AVAX",
+        "gas used": "0.003412137103825632 AVAX",
+        "block": "14561715"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "traderjoe",
+    "uri": "::traderjoe",
+    "actions": {
+        "approve-WETH": {
+            "target": "::traderjoe:router:approve(address spender, uint256 amount)",
+            "contract": "::traderjoe:router",
+            "action": "approve(address spender, uint256 amount)"
+        },
+        "swap-WETH-for-AVAX": {
+            "target": "::traderjoe:router:swapTokensForExactAVAX(uint256 amountOut, uint256 amountInMax, address[] path, address to, uint256 deadline)",
+            "contract": "::traderjoe:router",
+            "action": "swapTokensForExactAVAX(uint256 amountOut, uint256 amountInMax, address[] path, address to, uint256 deadline)"
+        }
+    },
+    "networks": {
+        "AVAX": {
+            "mainnet": {
+                "router": {
+                    "address": "0x60aE616a2155Ee3d9A68541Ba4544862310933d4",
+                    "uri": "AVAX:mainnet:traderjoe:router/0x60aE616a2155Ee3d9A68541Ba4544862310933d4"
+                }
+            }
+        }
+    }
+    
+}
