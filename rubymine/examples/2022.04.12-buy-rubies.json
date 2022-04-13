@@ -1,0 +1,32 @@
+{
+    "date": "Apr-12-2022 04:21:36 AM +UTC",
+    "transactions": [
+        {
+        "url": "https://snowtrace.io/tx/0x9bd67244427f4ad8d2daa4ee8209b65e8926dada0a19690fadf00a2adcfa04d5",
+        "id": "AVAX:mainnet:0x9bd67244427f4ad8d2daa4ee8209b65e8926dada0a19690fadf00a2adcfa04d5",
+        "from": "0xb513434c6f64a8b464295ce024191182b87e1c96",
+        "at": "Apr-12-2022 04:21:36 AM +UTC",
+        "price": "$76.33 AVAX",
+        "method": "0xd4393fed",
+        "params": {
+            "spec": "buyRubies(address ref)",
+            "ref": "0xA3dEBA3F6CB9a22cB9B1C4079807e2A2A2A90f6f",
+            "__": "0xd4393fed000000000000000000000000a3deba3f6cb9a22cb9b1c4079807e2a2a2a90f6f",
+            "_": [
+                "000000000000000000000000a3deba3f6cb9a22cb9b1c4079807e2a2a2a90f6f"
+            ]
+        },
+        "transfer": {
+            "want": "rubies",
+            "have": "AVAX",
+            "using": "AVAX:mainnet:rubymine:buyRubies(address ref)",
+            "expect": "10 AVAX",
+            "into": "10 AVAX"
+        },
+        "value": "10 AVAX",
+        "gas price": "0.000000074509249342 AVAX",
+        "gas used": "0.015789329537312562 AVAX",
+        "block": "13307880"
+        }
+    ]
+}

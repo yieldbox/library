@@ -1,0 +1,22 @@
+{
+    "id": "rubymine",
+    "uri": "::rubymine",
+    "actions": {
+        "swap-ETH-into": {
+            "target": "::rubymine:router:buyRubies(address ref)",
+            "contract": "::rubymine:router",
+            "action": "buyRubies(address ref)"
+        }
+    },
+    "networks": {
+        "ETH": {
+            "mainnet": {
+                "router": {
+                    "address": "0x31a226acd218fe1fd2e6b26767e670e868b6e65f",
+                    "uri": "AVAX:mainnet:rubymine:router/0x31a226acd218fe1fd2e6b26767e670e868b6e65f"
+                }
+            }
+        }
+    }
+    
+}
