@@ -2,14 +2,14 @@
     "id": "avaxbridge",
     "uri": "::avaxbridge",
     "actions": {
-        "swap-ETH-into": {
+        "transfer-AVAX-into": {
             "target": "::avaxbridge:weth:transfer(address dst, uint256 wad)",
             "contract": "::avaxbridge:weth",
             "action": "transfer(address dst, uint256 wad)"
         }
     },
     "networks": {
-        "ETH": {
+        "AVAX": {
             "mainnet": {
                 "router": {
                     "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",

@@ -1,11 +1,11 @@
 {
-    "date": "(Apr-07-2022 10:46:53 PM +UTC)",
+    "date": "Apr-07-2022 10:46:53 PM +UTC",
     "transactions": [
         {
         "url": "https://etherscan.io/tx/0x1876dec31dff8cb813162e118971446b1767d47c279a8cd321e387de56fedfde",
         "id": "ETH:mainnet:0x1876dec31dff8cb813162e118971446b1767d47c279a8cd321e387de56fedfde",
         "from": "0xa3deba3f6cb9a22cb9b1c4079807e2a2a2a90f6f",
-        "at": "5 hrs 45 mins ago (Apr-07-2022 10:46:53 PM +UTC)",
+        "at": "Apr-07-2022 10:46:53 PM +UTC",
         "price": "$3,229.28 ETH",
         "method": "0x7ff36ab5",
         "params": {
@@ -41,7 +41,7 @@
             "url": "https://etherscan.io/tx/0x23c83bf8bb9ca199cdf3e48b2c5957621f783a687cf56f3f3c526e19a5297ed6",
             "id": "ETH:mainnet:0x23c83bf8bb9ca199cdf3e48b2c5957621f783a687cf56f3f3c526e19a5297ed6",
             "from": "0xa3deba3f6cb9a22cb9b1c4079807e2a2a2a90f6f",
-            "at": "6 hrs 29 mins ago (Apr-07-2022 10:48:32 PM +UTC)",
+            "at": "Apr-07-2022 10:48:32 PM +UTC",
             "price": "$3,229.28 ETH",
             "method": "0xbcf64e05",
             "params": {
