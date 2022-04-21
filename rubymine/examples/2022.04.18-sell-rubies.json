@@ -1,0 +1,24 @@
+{
+    "date": "Apr-18-2022 08:54:19 PM +UTC",
+    "transactions": [
+        {
+        "url": "https://snowtrace.io/tx/0x1eabcd83777d903040cd56ab1a354b0aab952389fa77fb544108a83621b27545",
+        "id": "AVAX:mainnet:0x1eabcd83777d903040cd56ab1a354b0aab952389fa77fb544108a83621b27545",
+        "from": "0xb513434c6f64a8b464295ce024191182b87e1c96",
+        "at": "Apr-18-2022 08:54:19 PM +UTC",
+        "price": "$77.74 AVAX",
+        "method": "0xf573c208",
+        "params": {
+            "spec": "sellRubies()",
+            "__": "0xf573c208",
+            "_": [
+                ""
+            ]
+        },
+        "value": "0 AVAX",
+        "gas price": "0.000000062551055168 AVAX",
+        "gas used": "0.006866729734232704 AVAX",
+        "block": "13595556"
+        }
+    ]
+} 
