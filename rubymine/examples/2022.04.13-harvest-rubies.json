@@ -1,0 +1,25 @@
+{
+    "date": "Apr-13-2022 10:29:54 PM +UTC",
+    "transactions": [
+        {
+        "url": "https://snowtrace.io/tx/0x640c3bad6cbbe167ada82a1b26e673aae93e49127fa3229419996ee4ee8ca20e",
+        "id": "AVAX:mainnet:0x640c3bad6cbbe167ada82a1b26e673aae93e49127fa3229419996ee4ee8ca20e",
+        "from": "0xb513434c6f64a8b464295ce024191182b87e1c96",
+        "at": "Apr-13-2022 10:29:54 PM +UTC",
+        "price": "$80.19 AVAX",
+        "method": "0x0d35e597",
+        "params": {
+            "spec": "harvestRubies(address ref)",
+            "ref": "0xA3dEBA3F6CB9a22cB9B1C4079807e2A2A2A90f6f",
+            "__": "0x0d35e597000000000000000000000000a3deba3f6cb9a22cb9b1c4079807e2a2a2a90f6f",
+            "_": [
+                "000000000000000000000000a3deba3f6cb9a22cb9b1c4079807e2a2a2a90f6f"
+            ]
+        },
+        "value": "0 AVAX",
+        "gas price": "0.000000071700541834 AVAX",
+        "gas used": "0.005138275929449942 AVAX",
+        "block": "13382967"
+        }
+    ]
+} 

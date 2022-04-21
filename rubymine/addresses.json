@@ -6,6 +6,16 @@
             "target": "::rubymine:router:buyRubies(address ref)",
             "contract": "::rubymine:router",
             "action": "buyRubies(address ref)"
+        },
+        "sell": {
+            "target": "::rubymine:router:sellRubies()",
+            "contract": "::rubymine:router",
+            "action": "sellRubies()"
+        },
+        "harvest": {
+            "target": "::rubymine:router:harvestRubies(address ref)",
+            "contract": "::rubymine:router",
+            "action": "harvestRubies(address ref)"
         }
     },
     "networks": {
