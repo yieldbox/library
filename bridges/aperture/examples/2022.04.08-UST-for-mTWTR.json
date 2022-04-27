@@ -1,0 +1,35 @@
+{
+    "date": "2022.04.08 07:35:19+08:00",
+    "transactions": [
+        {
+            "url": "https://terrasco.pe/mainnet/tx/B0EB80C9F784B71433B7660E2D77AB245CC4A7B1C5CEBDB191704A45479DF92A",
+            "id": "TERRA:mainnet:B0EB80C9F784B71433B7660E2D77AB245CC4A7B1C5CEBDB191704A45479DF92A",
+            "from": "terra1gupkcl4dtrqm85gr9dp0jq4gr8krr0z6c7wztj",
+            "to": "terra1ajkmy2c0g84seh66apv9x6xt6kd3ag80jmcvtz",
+            "amount": "2000000000uusd",
+            "at": "2022.04.08 07:35:19+08:00",
+            "block": "7160411",
+            "fee": "1.566004 UST",
+            "executeMsg": 
+                {
+                    "create_position": {
+                    "data": "eyJ0YXJnZXRfbWluX2NvbGxhdGVyYWxfcmF0aW8iOiIyLjUwIiwidGFyZ2V0X21heF9jb2xsYXRlcmFsX3JhdGlvIjoiMi45MCIsIm1pcnJvcl9hc3NldF9jdzIwX2FkZHIiOiJ0ZXJyYTFjYzNlbmo5cWdjaGxyajM0Y256aHd1Y2xjNHZsMnozamw3dGtxZyJ9",
+                    "assets": [
+                        {
+                        "info": {
+                            "native_token": {
+                            "denom": "uusd"
+                            }
+                        },
+                        "amount": "2000000000"
+                        }
+                    ],
+                    "strategy": {
+                        "chain_id": 3,
+                        "strategy_id": "0"
+                    }
+                    }
+                }
+        }
+    ]
+}
